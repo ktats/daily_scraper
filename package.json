@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ktats/daily_scraper#readme",
   "dependencies": {
     "@babel/cli": "^7.5.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^1.19.1",
     "react": "^16.9.0"
   },
